@@ -1,4 +1,4 @@
- ## fantastic-tribble
+# fantastic-tribble
 First project for use GitHub
 
 Hello word!
